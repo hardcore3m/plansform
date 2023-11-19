@@ -1,4 +1,4 @@
-import getFormHandler from './src/forms/getFormHandler'
+import getFormHandler from './src/models/forms/getFormHandler.js'
 
 const formHandler ={}
 
